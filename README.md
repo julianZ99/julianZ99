@@ -17,7 +17,7 @@
 
 <p align="center">
   <samp>
-    <sub>currently in <img src="https://img.shields.io/badge/Artix_Linux-1793D1?style=flat&logo=artixlinux&logoColor=white" alt="Artix Linux" height="18"/> · <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" height="18"/></sub>
+    <sub>currently in <img src="https://img.shields.io/badge/Artix_Linux-1793D1?style=flat&logo=artixlinux&logoColor=white" alt="Artix Linux" height="18"/> using <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" height="18"/></sub>
   </samp>
 </p>
 
