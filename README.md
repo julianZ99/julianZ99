@@ -5,7 +5,7 @@
   </samp>
 </p>
 
----
+&zwnj;
 
 <p align="center">
   <samp>
@@ -13,15 +13,15 @@
   </samp>
 </p>
 
----
+&zwnj;
 
 <p align="center">
   <samp>
-    <sub>currently in <b>Artix Linux</b> <img src="https://img.shields.io/badge/Artix_Linux-1793D1?style=flat&logo=artixlinux&logoColor=white" alt="Artix Linux" height="18"/> · <b>VS Code</b> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" height="18"/></sub>
+    <sub>currently in <img src="https://img.shields.io/badge/Artix_Linux-1793D1?style=flat&logo=artixlinux&logoColor=white" alt="Artix Linux" height="18"/> · <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" height="18"/></sub>
   </samp>
 </p>
 
----
+&zwnj;
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -44,13 +44,8 @@
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native"/>
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" alt="Electron"/>
   <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white" alt="SvelteKit"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white" alt="NGINX"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-</p>
-
----
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=julianZ99&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianZ99&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&langs_count=6" />
 </p>
