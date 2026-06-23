@@ -1,13 +1,8 @@
 <p align="center">
   <samp>
     <b>julianZ99</b><br>
+    <a href="https://julianz99.github.io/">julianz99.github.io</a><br>
     full-stack · audio · hardware
-  </samp>
-</p>
-
-<p align="center">
-  <samp>
-    <a href="https://julianz99.github.io/">julianz99.github.io</a> ·
   </samp>
 </p>
 
